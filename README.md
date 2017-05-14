@@ -3,10 +3,17 @@ Permutation-based sequence alignment program uses a BLOSUM matrix to find the be
 ## Requirements
 - Python
 ## Usage
-To run the program simply input the following command:
+First format the input with the following command:
 ```
-bash submit.sh
+python seqbin.py
 ```
 
-- You need to have two FASTA files in your directory, simply enter these filenames as prompted. The program will create an output file with the sequence alignment.
+- You need to have two FASTA files in your directory, simply enter these filenames as prompted. The program will create output files containing binds of sequences. 
 - Note: Tryptophan residues (W) need to be converted to *. Sequence length limit is 500. 
+
+Then run the following script to start the job:
+ ```
+ bash submit.sh
+ ```
+ 
+ - This will create an output file containing the sequence alignment. 
