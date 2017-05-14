@@ -8,7 +8,7 @@ First format the input with the following command:
 python seqbin.py
 ```
 
-- You need to have two FASTA files in your directory, simply enter these filenames as prompted. The program will create output files containing binds of sequences. 
+- You need to have two FASTA files in your directory, simply enter these filenames as prompted. The program will create output files containing bins of sequences. 
 - Note: Tryptophan residues (W) need to be converted to *. Sequence length limit is 500. 
 
 Then run the following script to start the job:
