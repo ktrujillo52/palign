@@ -1,5 +1,5 @@
-#]!/usr/bin/python
-#This program is licensed by TR10 llc
+#!/usr/bin/python
+
 from random import randint
 from datetime import datetime
 import sys
