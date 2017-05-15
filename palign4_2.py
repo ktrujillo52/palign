@@ -1,4 +1,4 @@
-#]!/usr/bin/python
+#!/usr/bin/python
 
 from random import randint
 from datetime import datetime
