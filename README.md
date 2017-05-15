@@ -18,3 +18,8 @@ Then run the following script to start the job:
  ```
  
  - This will create an output file containing the sequence alignment. 
+## License
+This program is licensed under the terms of the MIT license. See [LICENSE.txt](https://github.com/ktrujillo52/palign/blob/master/LICENSE.txt) for more information. 
+
+## Questions
+Please forward any questions or troubleshooting issues to k.trujillo52@gmail.com
